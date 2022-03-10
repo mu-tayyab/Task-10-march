@@ -1,15 +1,30 @@
+
+
+
+Project Title: 📛
+This is Random Task
+
+
+Screenshots: 📷
+Add a picture or short video(gif) demo of how the project works.
+Technologies Used: ☕️ 🐍 ⚛️
+React Native
+
+Setup / Installation: 💻
+
 You can follow this guide to setup your environment.
 https://reactnative.dev/docs/environment-setup
-then ,
 
+Then  
 open terminal in root directory
 
-How to run this project?
+install node modules by this command $ yarn or npm install
 
-install node modules by this command yarn or npm install
+run this project in android
 
-how to run this project
-in Android
 npx react-native run-android
-in ios
+
+Run this project in iOS 
+cd ios && pod install
 npx react-native run-ios
+
