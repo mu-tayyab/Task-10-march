@@ -5,9 +5,7 @@ Project Title: 📛
 This is Random Task
 
 
-Screenshots: 📷
-Add a picture or short video(gif) demo of how the project works.
-Technologies Used: ☕️ 🐍 ⚛️
+
 React Native
 
 Setup / Installation: 💻
